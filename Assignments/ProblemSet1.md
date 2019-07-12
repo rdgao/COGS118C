@@ -1,7 +1,7 @@
 **Exercises from van Drongelen**:
-**Chapter 2**: 2.2 (see Ch2 page 24), 2.5
-**Chapter 4**: 4.5a,b
-**Chapter 6**: 6.4 (see page 109, 6.3.1), 6.5:
+- **Chapter 2**: 2.2 (see Ch2 page 24), 2.5
+- **Chapter 4**: 4.5a,b
+- **Chapter 6**: 6.4 (see page 109, 6.3.1), 6.5:
 
 A note on the table for 6.4: I jumped the gun in lecture on this one, we derived in class that we cannot distinguish anything with frequency greater or equal to fs, with the last wave number corresponding to frequency (N-1)/T. So in Table 6.4, the answer you would give given your knowledge as of today would be fs (or s, from column 2).
 
