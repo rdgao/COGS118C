@@ -28,7 +28,7 @@ If you're not taking this class at UCSD, the most useful part for you is probabl
 
 ## Previous Student Projects
 
-Student projects from Summer Session 1, 2019 (with their permission to share). These are done using publicly available datasets (see [here](/Assigments/project_data/data_curation.ipynb) with minor curation from me, as well as data they found/recorded on their own.
+Student projects from Summer Session 1, 2019 (with their permission to share). These are done using publicly available datasets (see [here](/Assignments/project_data/data_curation.ipynb), with minor curation from me, as well as data they found/recorded on their own.
 
 **Anesthesia-Induced Transition in Monkey ECoG**
 
