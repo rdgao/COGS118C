@@ -29,14 +29,19 @@ If you're not taking this class at UCSD, the most useful part for you is probabl
 ## Previous Student Projects
 
 Student projects from Summer Session 1, 2019 (with their permission to share). These are done using publicly available datasets (see [here](/Assigments/project_data/data_curation.ipynb) with minor curation from me, as well as data they found/recorded on their own.
+
 **Anesthesia-Induced Transition in Monkey ECoG**
+
 [Group 1](https://github.com/vnazlukhanyan/COGS118C_Final/blob/master/Oscillatory_Basis_Project.ipynb) | [Group 2](https://github.com/kevinice95/Cogs118C-final) | [Group 3](https://github.com/dylew898/Cogs118Project) | [Group 4](https://github.com/ahsanbari/Cogs118C_Final_Prj) | [Group 5](https://github.com/Chuyang98/COGS-118C-Final-Project-Code-and-Slide) | [Group 6](https://github.com/ZhuojunChen/COGS118C/blob/master/Assignments/project_data/COGS118C-Final-Presentation-Monkey-Data-Analysis.ipynb)
 
 **Decoding Finger Movement from Human ECoG**
+
 [Group 7](https://github.com/benjaminmakowsky/cogs118c/blob/master/Assignments/Final%20Project.ipynb) | [Group 8](https://github.com/yuhaimei/COGS__118C_Final_Project)
 
 **Fear & Expectation ERP with MUSE EEG**
+
 [Group 9](https://github.com/TamuzHod/Neural-_signal_processing_final_project)
 
 **Improving SSVEP Decoding via Baselining**
+
 [Group 10](https://github.com/Nikleon/AR-Modeling-EEG-for-SSVEP/blob/master/FinalProjectReport.ipynb)
