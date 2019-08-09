@@ -18,11 +18,11 @@ See [syllabus](CourseDocuments/Syllabus.pdf) for details.
 
 If you're not taking this class at UCSD, the most useful part for you is probably the [assignments](Assignments). These are self-contained Jupyter Notebooks, and they walk through a progression of concepts that take you from the foundations of digital signal processing to more neuro-specific (and more advanced) techniques. They start with a lot of scaffolding, and slowly requires you to be more independent. Refer to the lecture slides (or Google) for additional clarifications, but I don't recommend reading the slides first for learning (because they are not very verbose).
 
-- A0: Light review on Python, numpy, dot product, and complex numbers
-- A1: Sampling and quantization of signals and time-locked analysis (ERP)
-- A2: Code your own DFT algorithm from scratch (just dot product and complex numbers - easy!)
-- A3: Time-frequency analysis via short-time Fourier transforms + introduction to filter design
-- A4: Analytic signal (Hilbert Tranform) and spike-LFP analysis
+- [A0](Assignments/A0-LinAlgComplex.ipynb): Light review on Python, numpy, dot product, and complex numbers
+- [A1](Assignments/A1-SamplingTimeSeries.ipynb): Sampling and quantization of signals and time-locked analysis (ERP)
+- [A2](Assignments/A2-FourierTransform.ipynb): Code your own Discrete Fourier Transform from scratch (just dot product and complex numbers - easy!)
+- [A3](Assignments/A3-TimeFrequencyFiltering.ipynb): Time-frequency analysis via short-time Fourier transforms + introduction to filter design
+- [A4](Assignments/A4-HilbertLFPSpike.ipynb): Analytic signal (Hilbert Tranform) and spike-LFP analysis
 
 ---
 
