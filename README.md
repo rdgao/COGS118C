@@ -13,6 +13,8 @@ Learning how to analyze brain signals, as well as understanding their biological
 
 See [syllabus](CourseDocuments/Syllabus.pdf) for details.
 
+![](CourseDocuments/roadmap.png)
+
 ---
 ## Guided Labs
 
